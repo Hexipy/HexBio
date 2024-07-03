@@ -1,6 +1,6 @@
-**- 👋 Hi, I’m @QuixilDev**
+**- 👋 Hi, I’m @Hexipy**
 
-**Aspiring Software Developer | Data Developer | Data Scientist**
+**Aspiring Software Developer | Data Developer**
 
 ---
 
@@ -12,12 +12,12 @@
 
 ## Skills & Interests
 
-- **Programming Languages**: _**Python, SQL, R**_
-- **Data Analysis**: _**Pandas, NumPy, Matplotlib, Seaborn**_
-- **Machine Learning**: _**Scikit-learn, TensorFlow, Keras**_
-- **Database Management**: _**MySQL, PostgreSQL, MongoDB**_
-- **Tools & Technologies**: _**Git, Jupyter Notebooks, Docker**_
-- **Soft Skills**: _**Problem-solving, Analytical thinking, Continuous learning**_
+- **Programming Languages**: _Python, SQL, R_
+- **Data Analysis**: _Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning**: _Scikit-learn, TensorFlow, Keras_
+- **Database Management**: _MySQL, PostgreSQL, MongoDB_
+- **Tools & Technologies**: _Git, Jupyter Notebooks, Docker_
+- **Soft Skills**: _Problem-solving, Analytical thinking, Continuous learning_
 
 ---
 
@@ -37,16 +37,16 @@ _ **_Enrolled in the 'Data Developer' course at YouCode to solidify my foundatio
 
 ## Let's Connect!
 
-- **[LinkedIn]**(https://www.linkedin.com/in/yahya-el-azhari/)
+- **[LinkedIn]**(www.linkedin.com/in/yahya-el-azhari)
 - **[GitHub]**(https://github.com/QuixilDev)
 
 ---
 
 **__"Data is the new oil, and I am excited to be a part of this data-driven world, uncovering insights and driving innovation."__**
 
-- **👀 I’m interested in: Tech😏.**
-- **🌱 I’m currently learning: Programming in General.**
-- **💞️ I’m looking to collaborate on "Python Projects".**
-- **📫 How to reach me: X"Twitter", Here"GitHub" & "Dev&Medium".**
-- **⚡ Fun fact: Did you know that Python was named after the British comedy group Monty Python? Guido van Rossum, the creator of Python, was a fan of Monty Python's Flying Circus, and he chose the name to evoke a sense of fun and humor in programming.**
+- **👀 I’m interested in**: Tech😏.
+- **🌱 I’m currently learning**: Programming in General.
+- **💞️ I’m looking to collaborate on**: "Python Projects".
+- **📫 How to reach me**: X"Twitter", Here"GitHub" & "Dev&Medium".
+- **⚡ Fun fact**: Did you know that Python was named after the British comedy group Monty Python? Guido van Rossum, the creator of Python, was a fan of Monty Python's Flying Circus, and he chose the name to evoke a sense of fun and humor in programming.
 
