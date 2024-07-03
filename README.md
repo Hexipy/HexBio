@@ -45,7 +45,7 @@ _ **_Enrolled in the 'Data Developer' course at YouCode to solidify my foundatio
 **__"Data is the new oil, and I am excited to be a part of this data-driven world, uncovering insights and driving innovation."__**
 
 - **👀 I’m interested in**: Tech😏.
-- **🌱 I’m currently learning**: Programming in General.
+- **🌱 I’m currently working on**: An interesting Project.
 - **💞️ I’m looking to collaborate on**: "Python Projects".
 - **📫 How to reach me**: X"Twitter", Here"GitHub" & "Dev&Medium".
 - **⚡ Fun fact**: Did you know that Python was named after the British comedy group Monty Python? Guido van Rossum, the creator of Python, was a fan of Monty Python's Flying Circus, and he chose the name to evoke a sense of fun and humor in programming.
