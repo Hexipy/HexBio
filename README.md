@@ -38,7 +38,7 @@ _ **_Enrolled in the 'Data Developer' course at YouCode to solidify my foundatio
 ## Let's Connect!
 
 - **[LinkedIn]**(www.linkedin.com/in/yahya-el-azhari)
-- **[GitHub]**(https://github.com/QuixilDev)
+- **[GitHub]**(https://github.com/Hexipy)
 
 ---
 
