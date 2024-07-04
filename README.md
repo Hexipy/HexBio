@@ -37,7 +37,7 @@ _ **_Building a big and intricate project that is going to make my career stand 
 
 ## Let's Connect!
 
-- **[LinkedIn]**(www.linkedin.com/in/yahya-el-azhari)
+- **[LinkedIn]**(www.linkedin.com/in/hexipy)
 - **[GitHub]**(https://github.com/Hexipy)
 - **[Dev]**(https://dev.to/hexipy)
 - **[Medium]**(https://medium.com/@Hexipy)
