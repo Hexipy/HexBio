@@ -23,8 +23,8 @@
 
 ## Current Focus
 
-_ **_Enrolled in the 'Data Developer' course at YouCode to solidify my foundational skills and gain hands-on experience._**
-- **_Designing a game to teach basic programming skills in Python with a focus on object-oriented programming (OOP), targeting adults through a graphical and adventure-themed experience._**
+_ **_Building a big and intricate project that is going to make my career stand out_**
+- **_Meanwhile, I am developing a game to teach basic programming skills in Python, emphasizing object-oriented programming (OOP) and targeting adults through a graphical and adventure-themed experience._**
 
 ---
 
