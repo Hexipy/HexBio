@@ -1,18 +1,18 @@
 **- 👋 Hi, I’m @Hexipy**
 
-**Aspiring Software Developer | Data Developer**
+**Aspiring Software Developer | Python Developer**
 
 ---
 
 ## About Me
 
-**I'm an enthusiastic and dedicated individual with a strong passion for data and software development. I'm on an exciting journey to become a skilled data developer and data scientist. My goal is to leverage data to uncover insights and drive impactful decisions.**
+**I'm an enthusiastic and dedicated individual with a strong passion for data and software development. I'm on an exciting journey to become a skilled data scientist.**
 
 ---
 
 ## Skills & Interests
 
-- **Programming Languages**: _Python, SQL, R_
+- **Programming Languages**: _Python, SQL, R, JavaScript, Java, C_
 - **Data Analysis**: _Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning**: _Scikit-learn, TensorFlow, Keras_
 - **Database Management**: _MySQL, PostgreSQL, MongoDB_
@@ -39,7 +39,9 @@ _ **_Enrolled in the 'Data Developer' course at YouCode to solidify my foundatio
 
 - **[LinkedIn]**(www.linkedin.com/in/yahya-el-azhari)
 - **[GitHub]**(https://github.com/Hexipy)
-
+- **[Dev]**(https://dev.to/hexipy)
+- **[Medium]**(https://medium.com/@Hexipy)
+- **[X]**(https://x.com/Hexipy)
 ---
 
 **__"Data is the new oil, and I am excited to be a part of this data-driven world, uncovering insights and driving innovation."__**
