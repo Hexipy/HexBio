@@ -44,7 +44,7 @@ _ **_Building a big and intricate project that is going to make my career stand 
 - **[X]**(https://x.com/Hexipy)
 ---
 
-**__"Data is the new oil, and I am excited to be a part of this data-driven world, uncovering insights and driving innovation."__**
+**__"In today's digital landscape, software development, and AI fuel innovation, and I am thrilled to contribute to this data-driven era by uncovering insights, harnessing AI capabilities, and driving meaningful advancements."__**
 
 - **👀 I’m interested in**: Tech😏.
 - **🌱 I’m currently working on**: An interesting Project.
