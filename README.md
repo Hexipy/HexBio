@@ -49,6 +49,6 @@ _ **_Building a big and intricate project that is going to make my career stand 
 - **👀 I’m interested in**: Tech😏.
 - **🌱 I’m currently working on**: An interesting Project.
 - **💞️ I’m looking to collaborate on**: "Python Projects".
-- **📫 How to reach me**: X"Twitter", Here"GitHub" & "Dev&Medium".
+- **📫 How to reach me**: "LOOK ABOVE 👆".
 - **⚡ Fun fact**: Did you know that Python was named after the British comedy group Monty Python? Guido van Rossum, the creator of Python, was a fan of Monty Python's Flying Circus, and he chose the name to evoke a sense of fun and humor in programming.
 
