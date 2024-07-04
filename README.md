@@ -6,7 +6,7 @@
 
 ## About Me
 
-**I'm an enthusiastic and dedicated individual with a strong passion for data and software development. I'm on an exciting journey to become a skilled data scientist.**
+**I'm an enthusiastic and dedicated individual with a strong passion for data science and software development. I'm on an exciting journey to become a skilled data scientist.**
 
 ---
 
