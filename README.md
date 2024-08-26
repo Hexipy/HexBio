@@ -6,7 +6,7 @@
 
 ## About Me
 
-**I'm an enthusiastic and dedicated individual with a strong passion for data science and software development. I'm on an exciting journey to become a skilled Software Developer.**
+**I'm an enthusiastic and dedicated individual with a strong passion for data development and tech. I'm on an exciting journey to become a skilled Data Engineer.**
 
 ---
 
@@ -24,14 +24,13 @@
 ## Current Focus
 
 _ **_Building a big and intricate project that is going to make my career stand out_**
-- **_Meanwhile, I am developing a game to teach basic programming skills in Python, emphasizing object-oriented programming (OOP) and targeting adults through a graphical and adventure-themed experience._**
 
 ---
 
 ## Goals
 
 - **Short-term**: _Complete my course and apply my knowledge to real-world projects._
-- **Long-term**: _Become a proficient data developer and data scientist, contributing to innovative solutions that make a difference._
+- **Long-term**: _Become a proficient data developer, contributing to innovative solutions that make a difference._
 
 ---
 
@@ -43,8 +42,6 @@ _ **_Building a big and intricate project that is going to make my career stand 
 - **[Medium]**(https://medium.com/@Hexipy)
 - **[X]**(https://x.com/Hexipy)
 ---
-
-**__"In today's digital landscape, software development, and AI fuel innovation, and I am thrilled to contribute to this data-driven era by uncovering insights, harnessing AI capabilities, and driving meaningful advancements."__**
 
 - **👀 I’m interested in**: Tech😏.
 - **🌱 I’m currently working on**: An interesting Project.
