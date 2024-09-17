@@ -85,7 +85,8 @@
 
 ## Current Focus
 
-_🚀 Building a large-scale, cloud-native data engineering project using **Azure Data Services** (Azure Data Factory, Azure Synapse, and Azure SQL Database) to design robust data pipelines, optimize storage solutions, and perform high-level analytics. This project is aimed at refining my skills and making a significant impact on my career._
+_🚀 Building a cloud-native data engineering project using **Azure Data Services** (such as **Azure Data Factory**, **Azure Synapse**, and **Azure SQL Database**) to design scalable data pipelines, optimize storage, and perform advanced analytics. This project is a key step in my journey from **Azure Data beginner** to becoming a skilled **Azure Data Engineer**, refining my expertise and making a lasting impact on my career._
+
 
 ---
 
