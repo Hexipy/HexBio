@@ -91,8 +91,6 @@ _🚀 Building a large-scale, cloud-native data engineering project using **Azur
 
 ## Goals
 
-## Goals
-
 🎯 **Short-term**: Advance from mastering **Azure Data Fundamentals** to applying my knowledge in real-world projects, focusing on building data pipelines and leveraging **Azure Data Services**.
 
 🚀 **Long-term**: Become a proficient **Azure Data Engineer**, capable of designing and maintaining scalable data architectures, using **Azure** to deliver innovative, data-driven solutions that drive business success.
