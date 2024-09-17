@@ -23,7 +23,7 @@
     <span style="display: inline-block; margin-right: 10px;">JavaScript <span style="color: #F7DF1E;">✨</span></span>
     <span style="display: inline-block;">C <span style="color: #00599C;">💻</span></span>
   </div>
-
+  <br>
   <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 10px;">
     <strong>Data Analysis & Processing:</strong><br>
     <span style="display: inline-block; margin-right: 10px;">Pandas <span style="color: #3C6E71;">🐼</span></span>
@@ -31,7 +31,7 @@
     <span style="display: inline-block; margin-right: 10px;">Apache Spark <span style="color: #E35F6F;">🔥</span></span>
     <span style="display: inline-block;">Dask <span style="color: #5C2D91;">☁️</span></span>
   </div>
-
+  <br>
   <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 10px;">
     <strong>Database Management:</strong><br>
     <span style="display: inline-block; margin-right: 10px;">MySQL <span style="color: #F5DD29;">🗃️</span></span>
@@ -40,7 +40,7 @@
     <span style="display: inline-block; margin-right: 10px;">Cassandra <span style="color: #F4C542;">🏛️</span></span>
     <span style="display: inline-block;">Redis <span style="color: #D82C0D;">🔄</span></span>
   </div>
-
+  <br>
   <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 10px;">
     <strong>Data Warehousing & ETL:</strong><br>
     <span style="display: inline-block; margin-right: 10px;">Amazon Redshift <span style="color: #C62828;">🔴</span></span>
@@ -49,7 +49,7 @@
     <span style="display: inline-block; margin-right: 10px;">Apache Airflow <span style="color: #017C74;">🌬️</span></span>
     <span style="display: inline-block;">Talend <span style="color: #F8C300;">🔧</span></span>
   </div>
-
+  <br>
   <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 10px;">
     <strong>Azure Data Services:</strong><br>
     <span style="display: inline-block; margin-right: 10px;">Azure Data Factory <span style="color: #0078D4;">🔄</span></span>
@@ -58,7 +58,7 @@
     <span style="display: inline-block; margin-right: 10px;">Azure Data Lake Storage <span style="color: #0078D4;">🏞️</span></span>
     <span style="display: inline-block;">Azure Cosmos DB <span style="color: #0078D4;">🌌</span></span>
   </div>
-
+  <br>
   <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 10px;">
     <strong>Tools & Technologies:</strong><br>
     <span style="display: inline-block; margin-right: 10px;">Git <span style="color: #F05032;">🦊</span></span>
@@ -68,7 +68,7 @@
     <span style="display: inline-block;">AWS <span style="color: #FF9900;">☁️</span></span>
     <span style="display: inline-block;">Azure <span style="color: #0078D4;">🌩️</span></span>
   </div>
-
+  <br>
   <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 10px;">
     <strong>Soft Skills:</strong><br>
     <span style="display: inline-block; margin-right: 10px;">Problem-solving <span style="color: #F39C12;">🧩</span></span>
