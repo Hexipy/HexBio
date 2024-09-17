@@ -10,15 +10,57 @@
 
 ---
 
-## Skills & Interests
+<h3>Skills & Interests</h3>
 
-Programming Languages: Python <img src="https://img.icons8.com/ios-filled/50/000000/python.png" alt="Python" style="width:16px;"/> , SQL <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" style="width:16px;"/> , Java <img src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo.png" alt="Java" style="width:16px;"/> , Scala <img src="https://img.icons8.com/ios-filled/50/000000/scala.png" alt="Scala" style="width:16px;"/> , JavaScript <img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript" style="width:16px;"/> , C <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus.png" alt="C" style="width:16px;"/>
-Data Analysis & Processing: Pandas <img src="https://img.icons8.com/ios-filled/50/000000/pandas.png" alt="Pandas" style="width:16px;"/> , NumPy <img src="https://img.icons8.com/ios-filled/50/000000/numpy.png" alt="NumPy" style="width:16px;"/> , Apache Spark <img src="https://img.icons8.com/ios-filled/50/000000/apache-spark.png" alt="Apache Spark" style="width:16px;"/> , Dask <img src="https://img.icons8.com/ios-filled/50/000000/dask.png" alt="Dask" style="width:16px;"/>
-Database Management: MySQL <img src="https://img.icons8.com/ios-filled/50/000000/mysql.png" alt="MySQL" style="width:16px;"/> , PostgreSQL <img src="https://img.icons8.com/ios-filled/50/000000/postgresql.png" alt="PostgreSQL" style="width:16px;"/> , MongoDB <img src="https://img.icons8.com/ios-filled/50/000000/mongodb.png" alt="MongoDB" style="width:16px;"/> , Cassandra <img src="https://img.icons8.com/ios-filled/50/000000/cassandra.png" alt="Cassandra" style="width:16px;"/> , Redis <img src="https://img.icons8.com/ios-filled/50/000000/redis.png" alt="Redis" style="width:16px;"/>
-Data Warehousing & ETL: Amazon Redshift <img src="https://img.icons8.com/ios-filled/50/000000/amazon-redshift.png" alt="Amazon Redshift" style="width:16px;"/> , Google BigQuery <img src="https://img.icons8.com/ios-filled/50/000000/google-bigquery.png" alt="Google BigQuery" style="width:16px;"/> , Snowflake <img src="https://img.icons8.com/ios-filled/50/000000/snowflake.png" alt="Snowflake" style="width:16px;"/> , Apache Airflow <img src="https://img.icons8.com/ios-filled/50/000000/apache-airflow.png" alt="Apache Airflow" style="width:16px;"/> , Talend <img src="https://img.icons8.com/ios-filled/50/000000/talend.png" alt="Talend" style="width:16px;"/>
-Azure Data Services: Azure Data Factory <img src="https://img.icons8.com/ios-filled/50/000000/azure-data-factory.png" alt="Azure Data Factory" style="width:16px;"/> , Azure SQL Database <img src="https://img.icons8.com/ios-filled/50/000000/azure-sql-database.png" alt="Azure SQL Database" style="width:16px;"/> , Azure Synapse Analytics <img src="https://img.icons8.com/ios-filled/50/000000/azure-synapse-analytics.png" alt="Azure Synapse Analytics" style="width:16px;"/> , Azure Data Lake Storage <img src="https://img.icons8.com/ios-filled/50/000000/azure-data-lake-storage.png" alt="Azure Data Lake Storage" style="width:16px;"/> , Azure Cosmos DB <img src="https://img.icons8.com/ios-filled/50/000000/azure-cosmos-db.png" alt="Azure Cosmos DB" style="width:16px;"/>
-Tools & Technologies: Git <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" style="width:16px;"/> , Docker <img src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="Docker" style="width:16px;"/> , Kubernetes <img src="https://img.icons8.com/ios-filled/50/000000/kubernetes.png" alt="Kubernetes" style="width:16px;"/> , Apache Kafka <img src="https://img.icons8.com/ios-filled/50/000000/apache-kafka.png" alt="Apache Kafka" style="width:16px;"/> , AWS <img src="https://img.icons8.com/ios-filled/50/000000/aws.png" alt="AWS" style="width:16px;"/> , Azure <img src="https://img.icons8.com/ios-filled/50/000000/azure.png" alt="Azure" style="width:16px;"/>
-Soft Skills: Problem-solving 🧩, Analytical thinking 🧠, Communication 💬, Continuous learning 📚
+<p><strong>Programming Languages:</strong><br>
+Python <span style="color: #306998;">🐍</span><br>
+SQL <span style="color: #003B57;">📊</span><br>
+Java <span style="color: #F7DF1E;">☕</span><br>
+Scala <span style="color: #DC322F;">⌛</span><br>
+JavaScript <span style="color: #F7DF1E;">✨</span><br>
+C <span style="color: #00599C;">💻</span></p>
+
+<p><strong>Data Analysis & Processing:</strong><br>
+Pandas <span style="color: #3C6E71;">🐼</span><br>
+NumPy <span style="color: #5C2D91;">🔢</span><br>
+Apache Spark <span style="color: #E35F6F;">🔥</span><br>
+Dask <span style="color: #5C2D91;">☁️</span></p>
+
+<p><strong>Database Management:</strong><br>
+MySQL <span style="color: #F5DD29;">🗃️</span><br>
+PostgreSQL <span style="color: #336791;">🐘</span><br>
+MongoDB <span style="color: #4DB33D;">🍃</span><br>
+Cassandra <span style="color: #F4C542;">🏛️</span><br>
+Redis <span style="color: #D82C0D;">🔄</span></p>
+
+<p><strong>Data Warehousing & ETL:</strong><br>
+Amazon Redshift <span style="color: #C62828;">🔴</span><br>
+Google BigQuery <span style="color: #4285F4;">🔍</span><br>
+Snowflake <span style="color: #00A3E0;">❄️</span><br>
+Apache Airflow <span style="color: #017C74;">🌬️</span><br>
+Talend <span style="color: #F8C300;">🔧</span></p>
+
+<p><strong>Azure Data Services:</strong><br>
+Azure Data Factory <span style="color: #0078D4;">🔄</span><br>
+Azure SQL Database <span style="color: #0078D4;">🗄️</span><br>
+Azure Synapse Analytics <span style="color: #0078D4;">🔍</span><br>
+Azure Data Lake Storage <span style="color: #0078D4;">🏞️</span><br>
+Azure Cosmos DB <span style="color: #0078D4;">🌌</span></p>
+
+<p><strong>Tools & Technologies:</strong><br>
+Git <span style="color: #F05032;">🦊</span><br>
+Docker <span style="color: #2496ED;">🐋</span><br>
+Kubernetes <span style="color: #326CE5;">☸️</span><br>
+Apache Kafka <span style="color: #231F20;">☕️</span><br>
+AWS <span style="color: #FF9900;">☁️</span><br>
+Azure <span style="color: #0078D4;">🌩️</span></p>
+
+<p><strong>Soft Skills:</strong><br>
+Problem-solving <span style="color: #F39C12;">🧩</span><br>
+Analytical thinking <span style="color: #8E44AD;">🧠</span><br>
+Communication <span style="color: #3498DB;">💬</span><br>
+Continuous learning <span style="color: #27AE60;">📚</span></p>
+
 
 ---
 
