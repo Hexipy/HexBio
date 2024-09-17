@@ -15,7 +15,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="flex: 1; min-width: 300px; border: 1px solid #ddd; padding: 10px;">
-    <strong>Programming Languages:</strong><br>
+    <strong><b>Programming Languages:</b></strong><br>
     <span style="display: inline-block; margin-right: 10px;">Python <span style="color: #306998;">🐍</span></span>
     <span style="display: inline-block; margin-right: 10px;">SQL <span style="color: #003B57;">📊</span></span>
     <span style="display: inline-block; margin-right: 10px;">Java <span style="color: #F7DF1E;">☕</span></span>
