@@ -93,9 +93,10 @@ _🚀 Building a large-scale, cloud-native data engineering project using **Azur
 
 ## Goals
 
-🎯 **Short-term**: Complete my data engineering course and apply my knowledge by working on real-world projects using **Azure Data Services** (Azure Data Factory, Azure Synapse Analytics, and Azure SQL Database).
+🎯 **Short-term**: Advance from mastering **Azure Data Fundamentals** to applying my knowledge in real-world projects, focusing on building data pipelines and leveraging **Azure Data Services**.
 
-🚀 **Long-term**: Become a proficient **Azure Data Engineer**, designing and implementing scalable, cloud-based data solutions that drive innovation and enable businesses to make data-driven decisions.
+🚀 **Long-term**: Become a proficient **Azure Data Engineer**, capable of designing and maintaining scalable data architectures, using **Azure** to deliver innovative, data-driven solutions that drive business success.
+
 
 
 ---
